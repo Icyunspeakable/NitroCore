@@ -1,0 +1,31 @@
+name: NitroCore
+version: 1.0
+author: Icyunspeakable
+main: me.Icyunspeakable.NitroCore.Main
+description: My First Minecraft Plugin!
+
+commands:
+  nv:
+    aliases: [see,c]
+    description: toggles night vision!
+    usage: /nv
+  sam:
+     aliases: []
+     description: Do Not Execute
+     usage: /sam
+  msgsam:
+     aliases: []
+     description: Uh Oh
+     usage: /msgsam
+  helpme:
+     aliases: []
+     description: send staff a message
+     usage: /helpme
+  test:
+     aliases: []
+     description: test
+     usage: /test
+  bless:
+     aliases: []
+     description: removes negative potion effects from the user
+     usage: /bless

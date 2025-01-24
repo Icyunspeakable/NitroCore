@@ -1,0 +1,13 @@
+firstJoin_message: '&a<player> &7has joined the server for the first time!'
+
+join_message: '&e<player> &7has joined the server!'
+
+console_message: '&8[&c*&8] &cYou are unable to execute this command!'
+
+effect_disable: '&8[&c*&8] &cYou have disabled <potiontype>'
+
+effect_enable: '&8[&a*&8] &aYou have enabled <potiontype>'
+
+leave_message: '&c<player> &7has left the server!'
+
+permission_error: '&4You do not have permission to execute this command!'
